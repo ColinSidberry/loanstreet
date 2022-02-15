@@ -11,7 +11,7 @@
   - Update a loan created using the above action
 - Sample programmatic client for the aforementioned server
 
-## Completed Features
+## Features Outstanding
 - Testing: Model, Routes, and Components
 - Deployment: frontend and backend
 - Finanlizing frontend client
