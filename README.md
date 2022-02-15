@@ -27,7 +27,7 @@ Enter the following termincal commands:
     (venv) $ pip install -r requirements.txt
     ```
 2. Database Setup
-       ```console
+    ```console
     (venv) $ psql
     =# CREATE DATABASE loanstreet;
     =# (control-d)
