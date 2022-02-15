@@ -16,8 +16,8 @@
 - Deployment: frontend and backend
 - Finanlizing frontend client
 
-## Instructions
-Enter the following termincal commands:
+## Environment Setup Instructions
+Enter the following terminal commands:
 
 ### Backend
 1. Flask Environment Setup
